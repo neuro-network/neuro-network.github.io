@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://neuro-network.github.io/neuro-network.github.io/sitemap.xml
